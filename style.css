@@ -9,4 +9,24 @@ html {
 /* ======================== CSS Rule #2 */
 h1 {
   font-family: "Poetsen One", sans-serif;
+    color:darkgrey
+}
+
+button{
+padding: 10px;
+color: rgb(112, 33, 33);
+
+}
+
+
+p{
+  font-weight: 400;
+  font-size: large;
+}
+
+body{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
 }
